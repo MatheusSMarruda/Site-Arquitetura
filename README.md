@@ -9,7 +9,7 @@
 
 <p> :construction: Projeto em construção :construction: </p>
 
-# Resumo do projeto:
+# Sobre o site:
 <p>Este projeto tem a função de mostrar as novidades do mercado de interiores, com os melhores designs e plantas de decorados, nele mesmo você tem acesso ao produtos para compra e pode solicitar de acordo com a sua preferência.</p>
 
 # :computer: Tecnologias utilizadas
